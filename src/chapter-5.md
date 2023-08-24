@@ -1,5 +1,3 @@
-Chapter 4: Concept Development
-==============================
 
 In this chapter, we will explore the process of concept development in product development, including refining and selecting concepts, developing design specifications, and creating prototypes.
 

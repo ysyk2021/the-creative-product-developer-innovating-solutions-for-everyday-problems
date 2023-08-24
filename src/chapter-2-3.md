@@ -1,4 +1,3 @@
-# Common Myths and Misconceptions About Creativity
 
 In this chapter, we will debunk some common myths and misconceptions surrounding creativity. By uncovering the truth behind these misconceptions, we can better understand the nature of creativity and its role in the work of a creative product developer.
 

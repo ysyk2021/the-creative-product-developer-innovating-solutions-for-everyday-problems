@@ -1,5 +1,3 @@
-Chapter 1: Understanding Creativity
-===================================
 
 In this chapter, we will explore what creativity is, the benefits of creativity in product development, and common myths and misconceptions about creativity.
 

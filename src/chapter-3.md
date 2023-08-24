@@ -1,5 +1,3 @@
-Chapter 2: Identifying User Needs
-=================================
 
 In this chapter, we will explore the process of identifying user needs in product development through conducting user research, developing user personas, and identifying user pain points and unmet needs.
 

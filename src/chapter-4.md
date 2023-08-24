@@ -1,5 +1,3 @@
-Chapter 3: Ideation Techniques
-==============================
 
 In this chapter, we will explore ideation techniques that can be used to generate innovative solutions for everyday problems. These techniques include brainstorming, incorporating divergent and convergent thinking, and overcoming creative blocks.
 

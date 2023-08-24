@@ -1,4 +1,3 @@
-# Incorporating Divergent and Convergent Thinking
 
 In this chapter, we will explore the concepts of divergent and convergent thinking and their significance in the work of a creative product developer. We will discuss how incorporating both types of thinking can lead to innovative solutions for everyday problems.
 

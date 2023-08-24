@@ -1,4 +1,3 @@
-# Developing Design Specifications
 
 In this chapter, we will discuss the crucial step of developing design specifications in the creative product development process. We will explore the importance of clear and comprehensive design specifications and provide guidelines for creating effective specifications that guide the development of innovative solutions to everyday problems.
 

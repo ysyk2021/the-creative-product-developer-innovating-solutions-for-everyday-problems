@@ -1,4 +1,3 @@
-# Incorporating Feedback into the Design Process
 
 In this chapter, we will explore the essential process of incorporating feedback into the design process of creative product development. We will discuss the significance of feedback, effective methods for collecting feedback, and provide guidelines for integrating feedback to improve and refine innovative solutions for everyday problems.
 

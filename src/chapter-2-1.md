@@ -1,4 +1,3 @@
-# What is Creativity?
 
 In this chapter, we will delve into the concept of creativity and its significance in the context of the role of a creative product developer. We will explore the definition of creativity, its key characteristics, and how it can be fostered to drive innovation and solve everyday problems effectively.
 

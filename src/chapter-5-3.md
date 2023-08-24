@@ -1,4 +1,3 @@
-# Creating Prototypes
 
 In this chapter, we will explore the crucial process of creating prototypes in the creative product development journey. We will discuss the significance of prototypes, different types of prototypes, and provide guidelines for effectively designing and building prototypes to test and iterate innovative solutions for everyday problems.
 

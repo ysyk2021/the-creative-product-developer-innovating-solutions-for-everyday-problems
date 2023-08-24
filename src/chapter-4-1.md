@@ -1,5 +1,3 @@
-Brainstorming Techniques for Generating Ideas
-=============================================================================
 
 In this chapter, we will explore brainstorming techniques that can be used to generate a large number of ideas quickly and effectively.
 

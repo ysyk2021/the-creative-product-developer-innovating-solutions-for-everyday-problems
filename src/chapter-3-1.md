@@ -1,4 +1,3 @@
-# Conducting User Research
 
 In this chapter, we will explore the importance of user research in the work of a creative product developer. We will discuss the various methods and techniques used to gather valuable insights from users, and how this research informs the development of innovative and user-centered solutions for everyday problems.
 

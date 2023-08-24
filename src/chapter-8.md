@@ -1,5 +1,3 @@
-Chapter 7: Sustaining Innovation
-================================
 
 In this chapter, we will explore how to sustain innovation by maintaining motivation and momentum, building processes and frameworks to support innovation, and implementing strategies for continuous growth.
 

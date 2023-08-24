@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 The ongoing journey of creative product development
 ---------------------------------------------------

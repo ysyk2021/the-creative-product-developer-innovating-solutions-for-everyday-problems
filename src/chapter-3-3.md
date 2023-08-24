@@ -1,4 +1,3 @@
-# Identifying User Pain Points and Unmet Needs
 
 In this chapter, we will delve into the process of identifying user pain points and unmet needs as a creative product developer. We will discuss the significance of understanding user frustrations and desires, and how this knowledge drives the development of innovative solutions for everyday problems.
 
